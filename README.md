@@ -1,6 +1,6 @@
-# Oracle Kemenkes RI – Backup Project
+# Oracle Healthcare Industry PoC
 
-This directory contains backup assets for the Oracle-based Proof of Concept (PoC) related to Kementerian Kesehatan Republik Indonesia (Kemenkes RI). It includes data samples, SQL schema, notebooks for ETL/analytics, and subfolders for Oracle Analytics Cloud (OAC) and Oracle Data Service (ODS) artifacts.
+This directory contains backup assets for the Oracle-based Proof of Concept (PoC) related to the Healthcare Industry. It includes data samples, SQL schema, notebooks for ETL/analytics, and subfolders for Oracle Analytics Cloud (OAC) and Oracle Data Service (ODS) artifacts.
 
 ## Structure
 
@@ -12,12 +12,10 @@ This directory contains backup assets for the Oracle-based Proof of Concept (PoC
   - Artifacts related to Operational Data Store or Oracle Data Service (e.g., integration configs, metadata, or scripts).
 - DDL jurnal generator.xlsx
   - Spreadsheet referencing or documenting DDL for a "journal generator" component.
-- etl_kemenkesri.ipynb
-  - Jupyter notebook for ETL processes aligned to Kemenkes RI datasets.
 - etl.ipynb
   - General ETL notebook used during the PoC for data ingestion/transformations.
 - moh-poc-schema.sql
-  - SQL schema definition for the MoH PoC (tables, constraints, etc.).
+  - SQL schema definition for the Healthcare PoC (tables, constraints, etc.).
 
 Note: File names are indicative; exact contents can vary based on export time.
 
@@ -34,7 +32,7 @@ Note: File names are indicative; exact contents can vary based on export time.
      - jupyter lab
        or
      - jupyter notebook
-   - Open etl_kemenkesri.ipynb or etl.ipynb to review and execute steps for ingestion/transformations.
+   - Open etl_healthcare.ipynb or etl.ipynb to review and execute steps for ingestion/transformations.
 
 3. Database Schema
    - moh-poc-schema.sql contains DDL for core tables used in the PoC. Review and apply to your Oracle environment:
