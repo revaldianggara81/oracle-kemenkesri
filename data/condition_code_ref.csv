@@ -1,0 +1,195 @@
+ID,SNOMED_CODE_TEXT,SNOMED_CODE,ICD10_CODE,DISEASE_CATEGORY,DESCRIPTION
+1,Acute bronchitis (disorder),10509002,M54,Respiratory,Inflammation of the bronchial tubes in the lungs.
+2,Concussion with no loss of consciousness,62106007,M54,Neurological,A brain injury caused by a blow to the head.
+3,Acute viral pharyngitis (disorder),195662009,J02.9,Infectious Disease,"Inflammation of the pharynx, leading to a sore throat."
+4,Headache (finding),25064002,F32,Neurological,Pain in the head or upper neck.
+5,Sputum finding (finding),248595008,E11,Laboratory Finding,Material expelled from the respiratory tract.
+6,Fever (finding),386661006,,Other,General
+7,Suspected COVID-19,840544004,C50,Other,General
+8,COVID-19,840539006,R51,Other,General
+9,Prediabetes,15777000,I10,Endocrine / Metabolic,A metabolic disease characterized by high blood sugar levels.
+10,Anemia (disorder),271737000,,Other,General
+11,Body mass index 30+ - obesity (finding),162864005,J20,Other,General
+12,Hypertension,59621000,I10,Cardiovascular,A condition of persistently elevated blood pressure.
+13,Injury of tendon of the rotator cuff of shoulder,307731004,J20,Other,General
+14,Viral sinusitis (disorder),444814009,C50,Other,General
+15,Cough (finding),49727002,M54,Other,General
+16,Otitis media,65363002,R51,Other,General
+17,Sprain of wrist,70704007,J20,Other,General
+18,Loss of taste (finding),36955009,M54,Other,General
+19,First degree burn,403190006,J20,Other,General
+20,Rupture of appendix,47693006,E11,Other,General
+21,Appendicitis,74400008,I10,Other,General
+22,History of appendectomy,428251008,J02.9,Other,General
+23,Chronic sinusitis (disorder),40055000,,Other,General
+24,Atrial Fibrillation,49436004,C50,Other,General
+25,Osteoporosis (disorder),64859006,J20,Other,General
+26,Fracture of forearm,65966004,J02.9,Other,General
+27,Child attention deficit disorder,192127007,,Other,General
+28,Dyspnea (finding),267036007,J20,Other,General
+29,Wheezing (finding),56018004,J02.9,Other,General
+30,Whiplash injury to neck,39848009,E11,Other,General
+31,Fatigue (finding),84229001,F32,Other,General
+32,Diarrhea symptom (finding),267060006,J02.9,Other,General
+33,Drug overdose,55680006,I10,Other,General
+34,Sprain of ankle,44465007,C50,Other,General
+35,Laceration of hand,284549007,M54,Other,General
+36,Sepsis (disorder),91302008,J20,Other,General
+37,Miscarriage in first trimester,19169002,I10,Other,General
+38,Stroke,230690007,I10,Neurological,A neurological event caused by interrupted blood supply to the brain.
+39,Laceration of foot,284551006,J02.9,Other,General
+40,Hyperlipidemia,55822004,I10,Other,General
+41,Pneumonia (disorder),233604007,I10,Other,General
+42,Hypoxemia (disorder),389087006,J02.9,Other,General
+43,Respiratory distress (finding),271825005,R51,Other,General
+44,Acute respiratory failure (disorder),65710008,I10,Other,General
+45,Sepsis caused by virus (disorder),770349000,R51,Other,General
+46,Acquired coagulation disorder (disorder),234466008,C50,Other,General
+47,Acute respiratory distress syndrome (disorder),67782005,E11,Other,General
+48,Acute pulmonary embolism (disorder),706870000,S06.0,Other,General
+49,Acute bacterial sinusitis (disorder),75498004,,Other,General
+50,Bleeding from anus,6072007,I10,Other,General
+51,Protracted diarrhea,236077008,I10,Other,General
+52,Secondary malignant neoplasm of colon,94260004,I10,Other,General
+53,Diabetes,44054006,I10,Endocrine / Metabolic,A metabolic disease characterized by high blood sugar levels.
+54,Diabetic retinopathy associated with type II diabetes mellitus (disorder),422034002,S06.0,Endocrine / Metabolic,A metabolic disease characterized by high blood sugar levels.
+55,Hypertriglyceridemia (disorder),302870006,I10,Other,General
+56,Metabolic syndrome X (disorder),237602007,R51,Other,General
+57,Chronic kidney disease stage 1 (disorder),431855005,J02.9,Other,General
+58,Diabetic renal disease (disorder),127013003,I10,Other,General
+59,Chronic neck pain (finding),1121000119107,E11,Other,General
+60,Acute deep venous thrombosis (disorder),132281000119108,J20,Other,General
+61,Normal pregnancy,72892002,R51,Other,General
+62,Fetus with unknown complication,156073000,C50,Other,General
+63,Osteoarthritis of knee,239873007,C50,Musculoskeletal,Inflammation of the joints causing pain and stiffness.
+64,Chronic low back pain (finding),278860009,C50,Musculoskeletal,Discomfort in the lower back region.
+65,Chronic intractable migraine without aura,124171000119105,C50,Other,General
+66,Impacted molars,196416002,J02.9,Other,General
+67,Chronic pain,82423001,R51,Other,General
+68,Chronic congestive heart failure (disorder),88805009,F32,Other,General
+69,Sore throat symptom (finding),267102003,R51,Other,General
+70,Nausea (finding),422587007,,Other,General
+71,Vomiting symptom (finding),249497008,E11,Other,General
+72,Streptococcal sore throat (disorder),43878008,M54,Other,General
+73,Muscle pain (finding),68962001,,Other,General
+74,Joint pain (finding),57676002,F32,Other,General
+75,Tubal pregnancy,79586000,C50,Other,General
+77,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),1551000119108,F32,Endocrine / Metabolic,A metabolic disease characterized by high blood sugar levels.
+78,Concussion with loss of consciousness,62564004,C50,Neurological,A brain injury caused by a blow to the head.
+79,Nasal congestion (finding),68235000,,Other,General
+80,Smokes tobacco daily,449868002,M54,Other,General
+81,Neoplasm of prostate,126906006,E11,Other,General
+82,Carcinoma in situ of prostate (disorder),92691004,M54,Other,General
+83,Osteoarthritis of hip,239872002,R51,Musculoskeletal,Inflammation of the joints causing pain and stiffness.
+84,Polyp of colon,68496003,,Other,General
+85,Injury of medial collateral ligament of knee,444448004,I10,Other,General
+86,Septic shock (disorder),76571007,C50,Other,General
+87,Coronary Heart Disease,53741008,E11,Other,General
+88,Alzheimer's disease (disorder),26929004,E11,Neurological,A progressive neurological disorder leading to memory loss.
+89,Pathological fracture due to osteoporosis (disorder),443165006,R51,Other,General
+90,Chill (finding),43724002,I10,Other,General
+91,Hyperglycemia (disorder),80394007,J02.9,Other,General
+92,Sinusitis (disorder),444814009,S06.0,Other,General
+93,Laceration of thigh,283385000,S06.0,Other,General
+94,Recurrent rectal polyp,713197008,F32,Other,General
+95,Overlapping malignant neoplasm of colon,109838007,I10,Other,General
+96,Chronic obstructive bronchitis (disorder),185086009,M54,Respiratory,Inflammation of the bronchial tubes in the lungs.
+97,Fracture of ankle,16114001,I10,Other,General
+98,Recurrent urinary tract infection,197927001,C50,Other,General
+99,Injury of kidney (disorder),40095003,I10,Other,General
+100,Injury of heart (disorder),86175003,J02.9,Other,General
+101,Heart failure (disorder),88805009,M54,Other,General
+102,Fracture subluxation of wrist,263102004,E11,Other,General
+103,Familial Alzheimer's disease of early onset (disorder),230265002,E11,Neurological,A progressive neurological disorder leading to memory loss.
+104,Fracture of rib,33737001,R51,Other,General
+105,Pneumonia,233604007,,Other,General
+106,Childhood asthma,233678006,S06.0,Respiratory,A chronic respiratory condition causing airway inflammation.
+107,Cardiac Arrest,410429000,J20,Other,General
+108,History of cardiac arrest (situation),429007001,J20,Other,General
+109,Fracture of clavicle,58150001,I10,Other,General
+110,Hemoptysis (finding),66857006,I10,Other,General
+111,Second degree burn,403191005,I10,Other,General
+112,Closed fracture of hip,359817006,R51,Other,General
+113,Perennial allergic rhinitis with seasonal variation,232353008,S06.0,Other,General
+114,Myocardial Infarction,22298006,I10,Other,General
+115,History of myocardial infarction (situation),399211009,J20,Other,General
+116,Antepartum eclampsia,198992004,M54,Other,General
+117,Transformed migraine (disorder),427419006,,Other,General
+118,Injury of anterior cruciate ligament,444470001,M54,Other,General
+119,Preeclampsia,398254007,,Other,General
+120,Pulmonary emphysema (disorder),87433001,J20,Other,General
+121,Fibromyalgia (disorder),203082005,C50,Other,General
+122,Facial laceration,370247008,S06.0,Other,General
+123,Major depression disorder,370143000,J20,Mental and Behavioral,A mental health disorder characterized by persistently low mood.
+124,Suspected lung cancer (situation),162573006,,Neoplasms,A disease involving abnormal cell growth with potential to spread.
+125,Non-small cell lung cancer (disorder),254637007,,Neoplasms,A disease involving abnormal cell growth with potential to spread.
+127,Seizure disorder,128613002,E11,Other,General
+128,History of single seizure (situation),703151001,J20,Other,General
+129,Malignant neoplasm of breast (disorder),254837009,M54,Other,General
+130,Cystitis,38822007,C50,Other,General
+131,Malignant tumor of colon,363406005,I10,Other,General
+132,Bacterial infectious disease (disorder),87628006,M54,Other,General
+133,Gout,90560007,S06.0,Other,General
+134,Brain damage - traumatic,275272006,C50,Other,General
+135,Opioid abuse (disorder),5602001,,Other,General
+136,Fracture of vertebral column without spinal cord injury,15724005,E11,Other,General
+137,Perennial allergic rhinitis,446096008,J20,Other,General
+138,Escherichia coli urinary tract infection,301011002,C50,Other,General
+139,Epilepsy,84757009,M54,Neurological,A neurological disorder marked by recurrent seizures.
+140,Laceration of forearm,283371005,C50,Other,General
+141,Neuropathy due to type 2 diabetes mellitus (disorder),368581000119106,S06.0,Endocrine / Metabolic,A metabolic disease characterized by high blood sugar levels.
+142,Shock (disorder),76571007,S06.0,Other,General
+143,Acute allergic reaction,241929008,M54,Other,General
+144,Idiopathic atrophic hypothyroidism,83664006,,Other,General
+145,Seasonal allergic rhinitis,367498001,F32,Other,General
+146,Blighted ovum,35999006,S06.0,Other,General
+147,Primary malignant neoplasm of colon,93761005,S06.0,Other,General
+148,Atopic dermatitis,24079001,R51,Other,General
+149,Tear of meniscus of knee,239720000,S06.0,Other,General
+150,Bullet wound,262574004,R51,Other,General
+151,Alcoholism,7200002,J02.9,Other,General
+152,Concussion injury of brain,110030002,E11,Neurological,A brain injury caused by a blow to the head.
+153,Metastasis from malignant tumor of prostate (disorder),314994000,S06.0,Other,General
+154,Chronic kidney disease stage 2 (disorder),431856006,R51,Other,General
+155,Microalbuminuria due to type 2 diabetes mellitus (disorder),90781000119102,I10,Endocrine / Metabolic,A metabolic disease characterized by high blood sugar levels.
+156,Chronic kidney disease stage 3 (disorder),433144002,M54,Other,General
+157,Proteinuria due to type 2 diabetes mellitus (disorder),157141000119108,J02.9,Endocrine / Metabolic,A metabolic disease characterized by high blood sugar levels.
+158,Rheumatoid arthritis,69896004,S06.0,Musculoskeletal,Inflammation of the joints causing pain and stiffness.
+159,Rupture of patellar tendon,30832001,J20,Other,General
+160,Body mass index 40+ - severely obese (finding),408512008,I10,Other,General
+161,Passive conjunctival congestion (finding),246677007,M54,Other,General
+162,History of amputation of foot (situation),429280009,I10,Other,General
+163,Burn injury(morphologic abnormality),48333001,M54,Other,General
+164,Primary fibromyalgia syndrome,95417003,E11,Other,General
+165,Meningomyelocele (disorder),8414667000555441,C50,Other,General
+166,Chiari malformation type II (disorder),373587001,J02.9,Other,General
+167,Congenital deformity of foot (disorder),302297009,F32,Other,General
+168,Scoliosis deformity of spine (disorder),298382003,S06.0,Other,General
+169,Hydrocephalus (disorder),230745008,,Other,General
+170,Urinary tract infectious disease (disorder),68566005,S06.0,Other,General
+171,Pressure ulcer (disorder),399912005,F32,Other,General
+172,Asthma,195967001,R51,Respiratory,A chronic respiratory condition causing airway inflammation.
+173,Traumatic brain injury (disorder),127295002,I10,Other,General
+174,Acute Cholecystitis,65275009,,Other,General
+175,Cholelithiasis,235919008,J20,Other,General
+176,Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),1501000119109,J20,Endocrine / Metabolic,A metabolic disease characterized by high blood sugar levels.
+177,Pyelonephritis,45816000,M54,Other,General
+178,Cerebral palsy (disorder),128188000,C50,Other,General
+179,Pain (finding),1121000119107,,Other,General
+180,Spasticity (finding),221360009,F32,Other,General
+181,Epilepsy (disorder),84757009,F32,Neurological,A neurological disorder marked by recurrent seizures.
+182,Gastroesophageal reflux disease (disorder),235595009,S06.0,Other,General
+183,Excessive salivation (disorder),53827007,F32,Other,General
+184,Unable to swallow saliva (finding),288959006,F32,Other,General
+185,Contact dermatitis,40275004,,Other,General
+186,Macular edema and retinopathy due to type 2 diabetes mellitus (disorder),97331000119101,I10,Endocrine / Metabolic,A metabolic disease characterized by high blood sugar levels.
+187,Small cell carcinoma of lung (disorder),254632001,J02.9,Other,General
+189,Third degree burn,403192003,C50,Other,General
+190,Posttraumatic stress disorder,47505003,C50,Other,General
+191,Spina bifida occulta (disorder),76916001,J02.9,Other,General
+192,History of lower limb amputation (situation),161622006,R51,Other,General
+193,Chronic paralysis due to lesion of spinal cord,698754002,S06.0,Other,General
+194,Poor muscle tone (finding),398152000,J02.9,Other,General
+195,Intellectual disability (disorder),110359009,M54,Other,General
+196,Dislocation of hip joint (disorder),157265008,F32,Other,General
+197,Fracture of the vertebral column with spinal cord injury,1734006,M54,Other,General
