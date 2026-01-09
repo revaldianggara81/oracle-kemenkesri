@@ -1,6 +1,6 @@
 # Oracle Healthcare Industry PoC
 
-This directory contains backup assets for the Oracle-based Proof of Concept (PoC) related to the Healthcare Industry. It includes data samples, SQL schema, notebooks for ETL/analytics, and subfolders for Oracle Analytics Cloud (OAC) and Oracle Data Service (ODS) artifacts.
+This directory contains backup assets for the Oracle-based Proof of Concept (PoC) related to the Healthcare Industry. It includes data samples, SQL schema, notebooks for ETL/analytics, and subfolders for Oracle Analytics Cloud (OAC) and Oracle Data Science (ODS) artifacts.
 
 ## Structure
 
@@ -9,7 +9,7 @@ This directory contains backup assets for the Oracle-based Proof of Concept (PoC
 - OAC/
   - Assets related to Oracle Analytics Cloud (dashboards, exports, or configuration artifacts). Content may include .dva/.bar or documentation depending on export.
 - ODS/
-  - Artifacts related to Operational Data Store or Oracle Data Service (e.g., integration configs, metadata, or scripts).
+  - Artifacts related to Operational Data Store or Oracle Data Science (e.g., integration configs, metadata, or scripts).
 - DDL jurnal generator.xlsx
   - Spreadsheet referencing or documenting DDL for a "journal generator" component.
 - etl.ipynb
